@@ -1,6 +1,5 @@
 
-# Makefile
+# Ignore
 Makefile
-
-# Batch scripts
 *.bat
+*.sh
