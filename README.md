@@ -26,13 +26,13 @@ Open Steam, go to your library, right click on CS2, and click "Properties". Laun
 	Boost Player Contrast                   DISABLED
 	Wait for Vertical Sync                  DISABLED
 	Current Video Values Preset             CUSTOM
-		Multisampling Anti-Aliasing Mode    NONE
-		Global Shadow Quality               VERY HIGH
-		Model / Texture Detail              MEDIUM
-		Texture Filtering Mode              ANISOTROPIC 16X
-		Shader Detail                       LOW
-		Particle Detail                     LOW
-		Ambient Occlusion                   MEDIUM
-		High Dynamic Range                  PERFORMANCE
-		FidelityFX Super Resolution         DISABLED (HIGHEST QUALITY)
+	    Multisampling Anti-Aliasing Mode    NONE
+	    Global Shadow Quality               VERY HIGH
+	    Model / Texture Detail              MEDIUM
+	    Texture Filtering Mode              ANISOTROPIC 16X
+	    Shader Detail                       LOW
+	    Particle Detail                     LOW
+	    Ambient Occlusion                   MEDIUM
+	    High Dynamic Range                  PERFORMANCE
+	    FidelityFX Super Resolution         DISABLED (HIGHEST QUALITY)
 	NVIDIA Reflex Low Latency               ENABLED
