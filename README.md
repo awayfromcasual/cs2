@@ -9,9 +9,10 @@ Go to where Steam is installed and copy the contents of `cfg` into the following
 ## Launch Options
 Open Steam, go to your library, right click on CS2, and click "Properties". Launch options are entered in the box at the bottom of the "General" tab.
 
-- `-high -d3d9ex`
+	-high -d3d9ex
 
 ## Video Settings
+These are my video settings.
 
 	Main Menu Background Scenery            INFERNO
 	Brightness:                             93%
@@ -22,6 +23,7 @@ Open Steam, go to your library, right click on CS2, and click "Properties". Laun
 	Laptop Power Savings:                   DISABLED
 
 ## Advanced Video Settings
+These are my advanced video settings.
 
 	Boost Player Contrast                   DISABLED
 	Wait for Vertical Sync                  DISABLED
