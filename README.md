@@ -25,7 +25,7 @@ These are my video settings.
 ## Advanced Video Settings
 These are my advanced video settings.
 
-	Boost Player Contrast                   DISABLED
+	Boost Player Contrast                   ENABLED
 	Wait for Vertical Sync                  DISABLED
 	Current Video Values Preset             CUSTOM
 	  Multisampling Anti-Aliasing Mode      NONE
