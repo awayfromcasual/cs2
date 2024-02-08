@@ -28,13 +28,13 @@ These are my advanced video settings.
 	Boost Player Contrast                   ENABLED
 	Wait for Vertical Sync                  DISABLED
 	Current Video Values Preset             CUSTOM
-	  Multisampling Anti-Aliasing Mode      NONE
-	  Global Shadow Quality                 VERY HIGH
+	  Multisampling Anti-Aliasing Mode      4X MSAA
+	  Global Shadow Quality                 HIGH
 	  Model / Texture Detail                MEDIUM
 	  Texture Filtering Mode                ANISOTROPIC 16X
 	  Shader Detail                         LOW
 	  Particle Detail                       LOW
 	  Ambient Occlusion                     MEDIUM
-	  High Dynamic Range                    PERFORMANCE
+	  High Dynamic Range                    QUALITY
 	  FidelityFX Super Resolution           DISABLED (HIGHEST QUALITY)
 	NVIDIA Reflex Low Latency               ENABLED + BOOST
