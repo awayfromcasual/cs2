@@ -37,4 +37,4 @@ These are my advanced video settings.
 	  Ambient Occlusion                     MEDIUM
 	  High Dynamic Range                    PERFORMANCE
 	  FidelityFX Super Resolution           DISABLED (HIGHEST QUALITY)
-	NVIDIA Reflex Low Latency               ENABLED
+	NVIDIA Reflex Low Latency               ENABLED + BOOST
