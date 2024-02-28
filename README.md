@@ -9,7 +9,7 @@ Go to where Steam is installed and copy the contents of `cfg` into the following
 ## Launch Options
 Open Steam, go to your library, right click on CS2, and click "Properties". Launch options are entered in the box at the bottom of the "General" tab.
 
-	-high -d3d9ex -exec _launch
+	-high -d3d9ex +exec _launch
 
 ## Video Settings
 These are my video settings.
