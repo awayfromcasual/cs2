@@ -30,6 +30,7 @@ These are my advanced video settings.
 	Current Video Values Preset             CUSTOM
 	  Multisampling Anti-Aliasing Mode      4X MSAA
 	  Global Shadow Quality                 HIGH
+	  Dynamic Shadows                       ALL
 	  Model / Texture Detail                MEDIUM
 	  Texture Filtering Mode                ANISOTROPIC 16X
 	  Shader Detail                         LOW
